@@ -1,2 +1,4 @@
 # Agencia de viajes
-Captura de Pantalla ![image](https://github.com/user-attachments/assets/5af4f8ee-0c4e-4b4e-9f6b-ac8090f09c6c)
+Captura de Pantalla ![image](https://github.com/user-attachments/assets/854ac56c-21aa-473d-890c-5aa334b79df4)
+
+
