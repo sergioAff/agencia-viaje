@@ -1,0 +1,94 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background: #f4f4f4;
+}
+header {
+    background: #f2f2f2;
+    padding: 1rem 0;
+    text-align: center;
+}
+header h1 {
+    font-size: 3rem;
+    color: #333;
+}
+main {
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: column; 
+}
+.sobreNosotros {
+    max-width: 800px;
+    margin: 0 auto; 
+    text-align: center;
+    padding: 2rem 0; 
+    background: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    margin-bottom: 3rem; 
+}
+.sobreNosotros h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: #333;
+}
+.sobreNosotros p {
+    font-size: 1rem;
+    color: #555;
+    margin-bottom: 1rem;
+}
+.testimonios {
+    max-width: 800px;
+    margin: 0 auto; 
+    text-align: center;
+    padding: 2rem 0; 
+}
+.testimonios h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: #333;
+}
+.testimonio {
+    background: #fff;
+    padding: 1.5rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 1.5rem;
+    border-radius: 8px;
+}
+.testimonio p {
+    font-size: 1rem;
+    color: #555;
+    margin-bottom: 1rem;
+}
+.testimonio p:last-child {
+    font-style: italic;
+    color: #777;
+}
+footer {
+    background: #f2f2f2;
+    padding: 1rem;
+    text-align: center;
+}
+footer p {
+    font-size: 1rem;
+    color: #333;
+}
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 2rem;
+    }
+    .sobreNosotros {
+        padding: 1.5rem;
+    }
+    .sobreNosotros h2 {
+        font-size: 1.5rem;
+    }
+    .testimonios h2 {
+        font-size: 1.5rem;
+    }
+}
