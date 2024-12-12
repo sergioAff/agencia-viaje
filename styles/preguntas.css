@@ -57,3 +57,33 @@ footer {
   padding: 10px 0;
   margin-top: 20px;
 }
+
+/* Estilo para la sección de consejos */
+.consejos-viaje {
+  background-color: #f5faff;
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 8px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.consejos-viaje h2 {
+  color: #007bff;
+  font-size: 1.8rem;
+  margin-bottom: 15px;
+}
+
+.consejos-viaje ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+.consejos-viaje li {
+  margin-bottom: 10px;
+  font-size: 1rem;
+  color: #333;
+}
+
+.consejos-viaje strong {
+  color: #007bff;
+}
